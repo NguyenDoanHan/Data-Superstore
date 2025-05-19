@@ -1,0 +1,17 @@
+1.Khách hàng thường mua vào thời điểm nào? (ngày trong tuần, giờ nào trong ngày)
+
+2.Sản phẩm nào bán chạy nhất?
+
+2.Doanh thu theo tháng/quý như thế nào?
+
+3.Khách hàng có xu hướng mua lại không? Tần suất mua hàng là bao nhiêu?
+
+4.Phân nhóm khách hàng theo mức chi tiêu (ít, trung bình, nhiều)?
+
+5.Sản phẩm nào được mua cùng nhau nhiều nhất?
+
+6.Khách hàng ở khu vực nào mua nhiều? (nếu có thông tin vị trí)
+7.Vẽ biểu đồ số đơn hàng theo từng ngày trong tuần.
+
+8. Vẽ Biểu đồ số đơn hàng theo từng giờ và từng ngày (phân tích thời gian cao điểm).
+
